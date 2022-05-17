@@ -1,0 +1,12 @@
+a.exe
+a.out
+a1.c
+a2.c
+a3.c
+a4.c
+a5.c
+mem.c
+myshell-template.c
+myshell.c
+output.txt
+/mnt/c/Users/Srujan/Documents/textbooks/OS/Ex_prog
